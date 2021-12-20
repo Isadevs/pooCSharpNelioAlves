@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.exe
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.deps.json
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.dll
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\bin\Debug\netcoreapp3.1\proj_Retangulo.pdb
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.dll
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.pdb
+C:\poo_Nelio_Alves\uni_01\proj04_Retangulo\proj_Retangulo\obj\Debug\netcoreapp3.1\proj_Retangulo.genruntimeconfig.cache

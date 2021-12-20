@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.exe
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.deps.json
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.dll
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\bin\Debug\netcoreapp3.1\proj_Funcionario.pdb
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.dll
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.pdb
+C:\poo_Nelio_Alves\uni_01\proj05_Funcionario\proj_Funcionario\obj\Debug\netcoreapp3.1\proj_Funcionario.genruntimeconfig.cache

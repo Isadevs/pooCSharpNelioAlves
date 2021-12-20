@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.exe
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.deps.json
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.dll
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\bin\Debug\netcoreapp3.1\proj_PessoaMaisVelha.pdb
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.dll
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.pdb
+C:\poo_Nelio_Alves\uni_01\proj02_PessoaMaisVelha\proj_PessoaMaisVelha\obj\Debug\netcoreapp3.1\proj_PessoaMaisVelha.genruntimeconfig.cache

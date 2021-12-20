@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.exe
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.deps.json
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.dll
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\bin\Debug\netcoreapp3.1\salarioMedio.pdb
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.dll
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.pdb
+C:\poo_Nelio_Alves\uni_01\proj03_SalarioMedio\salarioMedio\obj\Debug\netcoreapp3.1\salarioMedio.genruntimeconfig.cache
