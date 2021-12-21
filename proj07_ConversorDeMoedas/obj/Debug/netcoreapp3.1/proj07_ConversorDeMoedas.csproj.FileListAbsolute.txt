@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.exe
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.deps.json
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.dll
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\bin\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.pdb
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.dll
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.pdb
+C:\poo_Nelio_Alves\uni_01\proj07_ConversorDeMoedas\obj\Debug\netcoreapp3.1\proj07_ConversorDeMoedas.genruntimeconfig.cache
