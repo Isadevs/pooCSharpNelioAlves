@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.exe
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.deps.json
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.dll
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\bin\Debug\netcoreapp3.1\proj06_MediaAluno.pdb
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.dll
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.pdb
+C:\poo_Nelio_Alves\uni_01\proj06_MediaAluno\obj\Debug\netcoreapp3.1\proj06_MediaAluno.genruntimeconfig.cache
