@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.exe
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.deps.json
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.dll
+C:\poo_Nelio_Alves\uni_03\exPensionato\bin\Debug\netcoreapp3.1\exPensionato.pdb
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.dll
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.pdb
+C:\poo_Nelio_Alves\uni_03\exPensionato\obj\Debug\netcoreapp3.1\exPensionato.genruntimeconfig.cache
