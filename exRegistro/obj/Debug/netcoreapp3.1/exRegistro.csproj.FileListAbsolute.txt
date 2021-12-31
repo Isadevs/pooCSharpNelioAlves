@@ -1,0 +1,14 @@
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.exe
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.deps.json
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.runtimeconfig.json
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.runtimeconfig.dev.json
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.dll
+C:\poo_Nelio_Alves\uni_03\exRegistro\bin\Debug\netcoreapp3.1\exRegistro.pdb
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.csproj.AssemblyReference.cache
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.AssemblyInfoInputs.cache
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.AssemblyInfo.cs
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.csproj.CoreCompileInputs.cache
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.dll
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.pdb
+C:\poo_Nelio_Alves\uni_03\exRegistro\obj\Debug\netcoreapp3.1\exRegistro.genruntimeconfig.cache
